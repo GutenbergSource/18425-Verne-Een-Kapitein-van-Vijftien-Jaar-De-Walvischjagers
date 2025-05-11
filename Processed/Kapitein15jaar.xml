@@ -1,11 +1,15 @@
-<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>Een Kapitein van Vijftien Jaar: De Walvischjagers</title><author key="Verne, Jules" ref="https://viaf.org/viaf/76323989/">Jules Verne (1828&#8211;1905)</author><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name>Distributed Proofreaders Team</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="epub-id">urn:uuid:c0f99d0d-0fe3-43ff-8a47-70ec696da9dd</idno><idno type="PGclearance">20050319085354verne</idno><idno type="PGDPProjectId">projectID423d533318304</idno><idno type="PGSrc">18425-Verne-Een-Kapitein-van-Vijftien-Jaar-De-Walvischjagers</idno><idno type="PGnum">18425</idno><date>2006-05-19</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg Licentie</xref> bij dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
-</p><p lang="en" xml:lang="en">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg License</xref> included with this eBook or online at <xref url='https://www.gutenberg.org/' rel='home'>www.gutenberg.org</xref>.
+<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader><fileDesc><titleStmt><title nfc="4">Een Kapitein van Vijftien Jaar: De Walvischjagers</title><author key="Verne, Jules" ref="https://viaf.org/viaf/76323989/">Jules Verne (1828&#8211;1905)</author><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt><respStmt lang="en" xml:lang="en"><resp>Transcription</resp><name>Distributed Proofreaders Team</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="epub-id">urn:uuid:c0f99d0d-0fe3-43ff-8a47-70ec696da9dd</idno><idno type="PGclearance">20050319085354verne</idno><idno type="PGDPProjectId">projectID423d533318304</idno><idno type="PGSrc">18425-Verne-Een-Kapitein-van-Vijftien-Jaar-De-Walvischjagers</idno><idno type="PGnum">18425</idno><date>2006-05-19</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+</p><p lang="en" xml:lang="en">This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+</p><p>Vertaling van <hi lang="fr" xml:lang="fr">Un capitaine de quinze ans</hi>, eerste deel (1878).
 </p></availability></publicationStmt><sourceDesc><bibl><author>Jules Verne</author>
 <title>Een Kapitein van Vijftien Jaar: De Walvischjagers</title>
 <date>1920</date></bibl></sourceDesc></fileDesc><encodingDesc lang="nl" xml:lang="nl"><p>Dit bestand is in de oude spelling. Er is geen poging gedaan de tekst te moderniseren. Afgebroken woorden aan het einde van de regel zijn hersteld.
 </p><p>Hoewel in dit werk laag liggende aanhalingstekens openen worden gebruikt, zijn deze gecodeerd met &#8220;.
-</p></encodingDesc><profileDesc><langUsage lang="nl" xml:lang="nl"><language id="nl-1900">Nederlands (Spelling De Vries-Te Winkel).</language><language id="nl">Nederlands.</language><language id="en">Engels.</language><language id="fr">Frans.</language><language id="la">Latijn.</language><language id="es">Spaans.</language></langUsage></profileDesc><revisionDesc><list><item>17-MEI-2006 begonnen.
-    </item></list></revisionDesc></teiHeader><text><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/cover.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+</p></encodingDesc><profileDesc><langUsage lang="nl" xml:lang="nl"><language id="nl-1900">Nederlands (Spelling De Vries-Te Winkel)</language><language id="nl">Nederlands</language><language id="en">Engels</language><language id="fr">Frans</language><language id="la">Latijn</language><language id="es">Spaans</language></langUsage></profileDesc><revisionDesc><list><item>17-MEI-2006 begonnen.
+    </item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/front.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+
+
+<pb/></p></div1><div1 id="titlepage" type="TitlePage"><p><figure id="titlepage-image" rend="image(images/titlepage.png)"><figDesc>Oorspronkelijke titelpagina.</figDesc></figure>
 
 </p></div1><titlePage><byline><docAuthor>Jules Verne</docAuthor>
 </byline><docTitle><titlePart type="main">Een Kapitein van Vijftien Jaar</titlePart><lb/><titlePart type="main">De Walvischjagers.</titlePart></docTitle><docImprint>Amsterdam
@@ -249,9 +253,9 @@ Uitgevers-Maatschappij &#8220;Elsevier&#8221;
 </p><p>&#8220;Vanwaar kwam de <hi>Waldeck?&#8221;</hi> hernam hij.
 </p><p>&#8220;Van Melbourne.&#8221;
 </p><p>&#8220;Ben jelui dan geen slaven?&#8221;
-<pb id="pb14" n="14"/></p><p>&#8220;Neen, mijnheer!&#8221; antwoordde snel de oude zwarte, die zich in zijn gansche lengte oprichtte. &#8220;We zijn onderdanen van den Staat van Pensylvani&#235; en burgers van het vrije Amerika!&#8221;
+<pb id="pb14" n="14"/></p><p>&#8220;Neen, mijnheer!&#8221; antwoordde snel de oude zwarte, die zich in zijn gansche lengte oprichtte. &#8220;We zijn onderdanen van den Staat van <corr sic="Pensylvani&#235;">Pennsylvani&#235;</corr> en burgers van het vrije Amerika!&#8221;
 </p><p>&#8220;Mijn vrienden,&#8221; antwoordde kapitein Hull, &#8220;vreest niet dat je vrijheid in gevaar verkeert door aan boord van den <hi>Pelgrim</hi> te zijn overgegaan.&#8221;
-</p><p>Werkelijk behoorden de vijf negers van de <hi>Waldeck</hi> thuis in den staat van Pensylvani&#235;. De oudste, op den leeftijd van zes jaar in Afrika verkocht, daarna naar de Vereenigde Staten overgebracht, was reeds sedert verscheidene jaren vrij verklaard. Wat zijn metgezellen aangaat, die veel jonger dan hij, zonen en slaven waren, v&#243;&#243;r hun geboorte vrij gemaakt, zij waren vrij geboren en geen blanke had ooit een eigendomsrecht op hen gehad. Zij spraken zelfs niet in de negertaal, waarin men het lidwoord niet gebruikt en slechts den infinitief der werkwoorden kent,&#8212;een taal die trouwens sedert den slavenoorlog allengs in onbruik geraakt is. Deze zwarten hadden dus eigenmachtig de Vereenigde Staten verlaten en keerden er eigenmachtig terug.
+</p><p>Werkelijk behoorden de vijf negers van de <hi>Waldeck</hi> thuis in den staat van <corr sic="Pensylvani&#235;">Pennsylvani&#235;</corr>. De oudste, op den leeftijd van zes jaar in Afrika verkocht, daarna naar de Vereenigde Staten overgebracht, was reeds sedert verscheidene jaren vrij verklaard. Wat zijn metgezellen aangaat, die veel jonger dan hij, zonen en slaven waren, v&#243;&#243;r hun geboorte vrij gemaakt, zij waren vrij geboren en geen blanke had ooit een eigendomsrecht op hen gehad. Zij spraken zelfs niet in de negertaal, waarin men het lidwoord niet gebruikt en slechts den infinitief der werkwoorden kent,&#8212;een taal die trouwens sedert den slavenoorlog allengs in onbruik geraakt is. Deze zwarten hadden dus eigenmachtig de Vereenigde Staten verlaten en keerden er eigenmachtig terug.
 </p><p>Zij deelden kapitein Hull verder mede dat zij zich als werklieden verhuurd hadden bij een Engelschman, die een uitgestrekt goed ter bebouwing bij Melbourne in zuidelijk Australi&#235; bezat. Daar hadden zij drie jaren doorgebracht en goede zaken gemaakt, waarna zij na ge&#235;indigd huurcontract, naar Amerika hadden willen terugkeeren.
 </p><p>Zij hadden zich dus op de <hi>Waldeck</hi> ingescheept en hun overtocht als gewone passagiers betaald. Den 5den December verlieten zij Melbourne, toen zeventien dagen later de <hi>Waldeck</hi> in een zeer duisteren nacht door een groote stoomboot was aangevaren geworden.
 </p><p>De zwarten lagen in hun kooi. Eenige seconden na de botsing die vreeselijk was, vlogen zij naar het dek.
@@ -270,7 +274,7 @@ Uitgevers-Maatschappij &#8220;Elsevier&#8221;
 </p><p>Zijn vlugheid, zijn spierkracht maakten er een van die dieren van die zonder aarzelen jaguars of panters aanvallen en een beer durven staan. Dicht van haar, met een langen, dikken en rechten staart als de staart van een leeuw, donker vaal van kleur, had Dingo alleen aan zijn snuit eenige plekken van een witachtige tint. Dit dier kon in een vlaag van kwaadheid geducht worden en men kan licht begrijpen dat Negoro volstrekt niet ingenomen was met het onthaal van dit krachtig staaltje dezer hondennatuur.
 </p><p>Mocht Dingo nu echter niet gezellig zijn, ondeugend was hij niet. Hij scheen eer treurig te zijn. De oude Tom had aan boord van de <hi>Waldeck</hi> opgemerkt dat hij niet bijzonder op de zwarten gesteld was. Hij zou hen juist geen kwaad gedaan hebben, maar stellig ontweek hij hen. Misschien had hij op de Afrikaansche kust waar hij rondzwierf, eenige slechte behandeling van den kant der inboorlingen ondervonden. En hoewel Tom en zijn metgezellen werkelijk brave menschen waren, had Dingo zich nooit tot hen getrokken gevoeld. Gedurende de tien dagen dat de schipbreukelingen op de <hi>Waldeck</hi> hadden doorgebracht, had hij zich afgezonderd en zich gevoed zonder dat iemand wist hoe, maar ook hij had bitteren dorst geleden.
 </p><p>Dat waren dus de overlevenden van het wrak, hetwelk de eerste hevige golfslag zou onderdompelen. Het zou ongetwijfeld slechts lijken naar de diepte medegevoerd hebben, indien de onverwachte aankomst van den <hi>Pelgrim</hi>, zelf door tegenwind en windstilte opgehouden, kapitein Hull niet in de gelegenheid had gesteld een menschlievende daad te verrichten.
-</p><p>Door de schipbreukelingen van de <hi>Waldeck</hi> die hun spaarpenningen van drie jaren arbeid in deze schipbreuk verloren hadden, naar hun vaderland terug te brengen, zou dit goede werk voltooid worden. Dit zou nu geschieden. De <hi>Pelgrim</hi> zou, na te Valparaiso gelost te hebben, den Amerikaanschen wal houden tot op de hoogte van Californi&#235;. Daar zouden Tom en zijn kameraden door James W. Weldon goed ontvangen worden,&#8212;en zij zouden voorzien worden van alles wat zij noodig hadden om den Staat van Pensylvani&#235; te bereiken.
+</p><p>Door de schipbreukelingen van de <hi>Waldeck</hi> die hun spaarpenningen van drie jaren arbeid in deze schipbreuk verloren hadden, naar hun vaderland terug te brengen, zou dit goede werk voltooid worden. Dit zou nu geschieden. De <hi>Pelgrim</hi> zou, na te Valparaiso gelost te hebben, den Amerikaanschen wal houden tot op de hoogte van Californi&#235;. Daar zouden Tom en zijn kameraden door James W. Weldon goed ontvangen worden,&#8212;en zij zouden voorzien worden van alles wat zij noodig hadden om den Staat van <corr sic="Pensylvani&#235;">Pennsylvani&#235;</corr> te bereiken.
 </p><p>De brave menschen, verzekerd van hun aankomst, waren met innige dankbaarheid jegens Mevr. Weldon en kapitein Hull bezield. Voorzeker waren zij hun veel verschuldigd, en, hoewel zij slechts arme negers waren, wanhoopten zij niet deze schuld van dankbaarheid eenmaal af te doen.
 
 
@@ -2007,9 +2011,9 @@ Uitgevers-Maatschappij &#8220;Elsevier&#8221;
 </p><p>zijn de volgende deelen verschenen:
 </p><p><hi rend="sc"><xref url="pg:11318">De Reis om de Wereld in 80 Dagen</xref></hi>.
 </p><p><hi rend="sc"><xref url="pg:27309">De Reis naar de Maan in 28 Dagen</xref></hi>.
-</p><p><hi rend="sc">De Kinderen van Kapitein Grant</hi>. Zuid-Amerika.
-</p><p><hi rend="sc">De Kinderen van Kapitein Grant</hi>. Australi&#235;.
-</p><p><hi rend="sc">De Kinderen van Kapitein Grant</hi>. Stille Zuidzee.
+</p><p><hi rend="sc"><xref url="pg:38667">De Kinderen van Kapitein Grant</xref></hi>. Zuid-Amerika.
+</p><p><hi rend="sc"><xref url="pg:38668">De Kinderen van Kapitein Grant</xref></hi>. Australi&#235;.
+</p><p><hi rend="sc"><xref url="pg:38669">De Kinderen van Kapitein Grant</xref></hi>. Stille Zuidzee.
 </p><p><xref url="pg:11205"><hi rend="sc">20.000 Mijlen onder Zee</hi>. Oostelijk Halfrond</xref>.
 </p><p><xref url="pg:11393"><hi rend="sc">20.000 Mijlen onder Zee</hi>. Westelijk Halfrond</xref>.
 </p><p><hi rend="sc"><xref url="pg:19086">Vijf weken in een Luchtballon</xref></hi>. Ontdekkingsreis in de Binnenlanden van Afrika.
@@ -2018,18 +2022,18 @@ Uitgevers-Maatschappij &#8220;Elsevier&#8221;
 </p><p><hi rend="sc"><xref url="pg:10349">Naar het Middelpunt der Aarde</xref></hi>.
 </p><p><hi rend="sc">Michael Strogoff, de Koerier van den Czaar</hi>.
 </p><p><hi rend="sc">Het Zwarte Goud</hi>.
-</p><p><hi rend="sc">Avonturen van drie Russen en drie Engelschen</hi>. Gevolgd door &#8220;De Blokkadebrekers&#8221;.
-</p><p><hi rend="sc">Een Kapitein van 15 jaar</hi>. De Walvischjagers.
+</p><p><hi rend="sc"><xref url="pg:39191">Avonturen van drie Russen en drie Engelschen</xref></hi>. Gevolgd door &#8220;De Blokkadebrekers&#8221;.
+</p><p><hi rend="sc"><xref url="pg:18425">Een Kapitein van 15 jaar</xref></hi>. De Walvischjagers.
 </p><p><hi rend="sc">Een Kapitein van 15 jaar</hi>. In Slavernij.
 </p><p><hi rend="sc">De Schipbreuk van de Chancellor</hi>.
 </p><p><hi rend="sc"><xref url="pg:24773">Wonderlijke Avonturen van een Chinees</xref></hi>.
 </p><p><hi rend="sc">Eldorado en het Monsterkanon van Staalstad</hi>. Gevolgd door &#8220;Meester Zacharias&#8221;.
-</p><p><hi rend="sc">Het Stoomhuis</hi>. De IJzeren Reus.
-</p><p><hi rend="sc">Het Stoomhuis</hi>. De Waanzinnige der Nerbudda.
+</p><p><hi rend="sc"><xref url="pg:33075">Het Stoomhuis</xref></hi>. De IJzeren Reus.
+</p><p><hi rend="sc"><xref url="pg:38449">Het Stoomhuis</xref></hi>. De Waanzinnige der Nerbudda.
 </p><p><hi rend="sc"><xref url="pg:27397">De Wonderstraal</xref></hi>.
 </p><p><hi rend="sc"><xref url="pg:17580">De Zuidster</xref></hi>. Het Land der Diamanten.
 </p><p><hi rend="sc"><xref url="pg:19091">Robur de Veroveraar</xref></hi>.
 
 </p><p>Prijs per deel 75 Cent.
 
-</p><divGen type="Colophon"/></div1></back></text></TEI.2>
+</p></div1><divGen type="Colophon"/></back></text></TEI.2>

@@ -1,13 +1,23 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
-<!ENTITY prime CDATA "'" -- prime -->
+    <!ENTITY apos    CDATA "&#x2019;"  --     434 -->
+    <!ENTITY deg     CDATA "&#x00B0;"  --       6 -->
+    <!ENTITY frac12  CDATA "&#x00BD;"  --       1 -->
+    <!ENTITY ldquo   CDATA "&#x201C;"  --    1305 -->
+    <!ENTITY lsquo   CDATA "&#x2018;"  --      15 -->
+    <!ENTITY mdash   CDATA "&#x2014;"  --     106 -->
+    <!ENTITY ndash   CDATA "&#x2013;"  --       1 -->
+    <!ENTITY ordm    CDATA "&#x00BA;"  --       7 -->
+    <!ENTITY prime   CDATA "&#x2032;"  --       4 -->
+    <!ENTITY rdquo   CDATA "&#x201D;"  --    1299 -->
+    <!ENTITY rsquo   CDATA "&#x2019;"  --      15 -->
 
 ]>
 <TEI.2 lang=nl-1900>
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Een Kapitein van Vijftien Jaar: De Walvischjagers</title>
+<title nfc=4>Een Kapitein van Vijftien Jaar: De Walvischjagers</title>
 <author key="Verne, Jules" ref="https://viaf.org/viaf/76323989/">Jules Verne (1828&ndash;1905)</author>
 <respStmt lang=en><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt> 
 <respStmt lang=en><resp>Transcription</resp> <name>Distributed Proofreaders Team</name></respStmt>
@@ -25,6 +35,8 @@
 <p>&availability.nl;
 
 <p lang=en>&availability.en;
+
+<p>Vertaling van <hi lang=fr>Un capitaine de quinze ans</hi>, eerste deel (1878).
 
 </availability>
 </publicationStmt>
@@ -44,12 +56,12 @@
 </encodingDesc>
 <profileDesc>
 <langUsage lang=nl>
-    <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel).</language>
-    <language id=nl>Nederlands.</language>
-    <language id=en>Engels.</language>
-    <language id=fr>Frans.</language>
-    <language id=la>Latijn.</language>
-    <language id=es>Spaans.</language>
+    <language id=nl-1900>Nederlands (Spelling De Vries-Te Winkel)</language>
+    <language id=nl>Nederlands</language>
+    <language id=en>Engels</language>
+    <language id=fr>Frans</language>
+    <language id=la>Latijn</language>
+    <language id=es>Spaans</language>
 </langUsage>
 </profileDesc>
 <revisionDesc>
@@ -58,12 +70,23 @@
     </list>
 </revisionDesc>
 </teiHeader>
-<text>
+<text rend="stylesheet(style/classic.css)">
 <front id=frontmatter>
 <div1 id=cover type=Cover>
 
-<p><figure id=cover-image rend="image(images/cover.jpg)">
+
+<p><figure id=cover-image rend="image(images/front.jpg)">
 <figDesc>Oorspronkelijke voorkant.</figDesc>
+</figure>
+
+
+
+<pb>
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Oorspronkelijke titelpagina.</figDesc>
 </figure>
 
 
@@ -595,11 +618,11 @@
 
 <p>&ldquo;Ben jelui dan geen slaven?&rdquo;
 
-<pb n=14 id=pb14><p>&ldquo;Neen, mijnheer!&rdquo; antwoordde snel de oude zwarte, die zich in zijn gansche lengte oprichtte. &ldquo;We zijn onderdanen van den Staat van Pensylvanië en burgers van het vrije Amerika!&rdquo;
+<pb n=14 id=pb14><p>&ldquo;Neen, mijnheer!&rdquo; antwoordde snel de oude zwarte, die zich in zijn gansche lengte oprichtte. &ldquo;We zijn onderdanen van den Staat van <corr sic="Pensylvanië">Pennsylvanië</corr> en burgers van het vrije Amerika!&rdquo;
 
 <p>&ldquo;Mijn vrienden,&rdquo; antwoordde kapitein Hull, &ldquo;vreest niet dat je vrijheid in gevaar verkeert door aan boord van den <hi>Pelgrim</hi> te zijn overgegaan.&rdquo;
 
-<p>Werkelijk behoorden de vijf negers van de <hi>Waldeck</hi> thuis in den staat van Pensylvanië. De oudste, op den leeftijd van zes jaar in Afrika verkocht, daarna naar de Vereenigde Staten overgebracht, was reeds sedert verscheidene jaren vrij verklaard. Wat zijn metgezellen aangaat, die veel jonger dan hij, zonen en slaven waren, vóór hun geboorte vrij gemaakt, zij waren vrij geboren en geen blanke had ooit een eigendomsrecht op hen gehad. Zij spraken zelfs niet in de negertaal, waarin men het lidwoord niet gebruikt en slechts den infinitief der werkwoorden kent,&mdash;een taal die trouwens sedert den slavenoorlog allengs in onbruik geraakt is. Deze zwarten hadden dus eigenmachtig de Vereenigde Staten verlaten en keerden er eigenmachtig terug.
+<p>Werkelijk behoorden de vijf negers van de <hi>Waldeck</hi> thuis in den staat van <corr sic="Pensylvanië">Pennsylvanië</corr>. De oudste, op den leeftijd van zes jaar in Afrika verkocht, daarna naar de Vereenigde Staten overgebracht, was reeds sedert verscheidene jaren vrij verklaard. Wat zijn metgezellen aangaat, die veel jonger dan hij, zonen en slaven waren, vóór hun geboorte vrij gemaakt, zij waren vrij geboren en geen blanke had ooit een eigendomsrecht op hen gehad. Zij spraken zelfs niet in de negertaal, waarin men het lidwoord niet gebruikt en slechts den infinitief der werkwoorden kent,&mdash;een taal die trouwens sedert den slavenoorlog allengs in onbruik geraakt is. Deze zwarten hadden dus eigenmachtig de Vereenigde Staten verlaten en keerden er eigenmachtig terug.
 
 <p>Zij deelden kapitein Hull verder mede dat zij zich als werklieden verhuurd hadden bij een Engelschman, die een uitgestrekt goed ter bebouwing bij Melbourne in zuidelijk Australië bezat. Daar hadden zij drie jaren doorgebracht en goede zaken gemaakt, waarna zij na geëindigd huurcontract, naar Amerika hadden willen terugkeeren.
 
@@ -637,7 +660,7 @@
 
 <p>Dat waren dus de overlevenden van het wrak, hetwelk de eerste hevige golfslag zou onderdompelen. Het zou ongetwijfeld slechts lijken naar de diepte medegevoerd hebben, indien de onverwachte aankomst van den <hi>Pelgrim</hi>, zelf door tegenwind en windstilte opgehouden, kapitein Hull niet in de gelegenheid had gesteld een menschlievende daad te verrichten.
 
-<p>Door de schipbreukelingen van de <hi>Waldeck</hi> die hun spaarpenningen van drie jaren arbeid in deze schipbreuk verloren hadden, naar hun vaderland terug te brengen, zou dit goede werk voltooid worden. Dit zou nu geschieden. De <hi>Pelgrim</hi> zou, na te Valparaiso gelost te hebben, den Amerikaanschen wal houden tot op de hoogte van Californië. Daar zouden Tom en zijn kameraden door James W. Weldon goed ontvangen worden,&mdash;en zij zouden voorzien worden van alles wat zij noodig hadden om den Staat van Pensylvanië te bereiken.
+<p>Door de schipbreukelingen van de <hi>Waldeck</hi> die hun spaarpenningen van drie jaren arbeid in deze schipbreuk verloren hadden, naar hun vaderland terug te brengen, zou dit goede werk voltooid worden. Dit zou nu geschieden. De <hi>Pelgrim</hi> zou, na te Valparaiso gelost te hebben, den Amerikaanschen wal houden tot op de hoogte van Californië. Daar zouden Tom en zijn kameraden door James W. Weldon goed ontvangen worden,&mdash;en zij zouden voorzien worden van alles wat zij noodig hadden om den Staat van <corr sic="Pensylvanië">Pennsylvanië</corr> te bereiken.
 
 <p>De brave menschen, verzekerd van hun aankomst, waren met innige dankbaarheid jegens Mevr. Weldon en kapitein Hull bezield. Voorzeker waren zij hun veel verschuldigd, en, hoewel zij slechts arme negers waren, wanhoopten zij niet deze schuld van dankbaarheid eenmaal af te doen.
 
@@ -4177,11 +4200,11 @@
 
 <p><hi rend=sc><xref url="pg:27309">De Reis naar de Maan in 28 Dagen</xref></hi>.
 
-<p><hi rend=sc>De Kinderen van Kapitein Grant</hi>. Zuid-Amerika.
+<p><hi rend=sc><xref url="pg:38667">De Kinderen van Kapitein Grant</xref></hi>. Zuid-Amerika.
 
-<p><hi rend=sc>De Kinderen van Kapitein Grant</hi>. Australië.
+<p><hi rend=sc><xref url="pg:38668">De Kinderen van Kapitein Grant</xref></hi>. Australië.
 
-<p><hi rend=sc>De Kinderen van Kapitein Grant</hi>. Stille Zuidzee.
+<p><hi rend=sc><xref url="pg:38669">De Kinderen van Kapitein Grant</xref></hi>. Stille Zuidzee.
 
 <p><xref url="pg:11205"><hi rend=sc>20.000 Mijlen onder Zee</hi>. Oostelijk Halfrond</xref>.
 
@@ -4199,9 +4222,9 @@
 
 <p><hi rend=sc>Het Zwarte Goud</hi>.
 
-<p><hi rend=sc>Avonturen van drie Russen en drie Engelschen</hi>. Gevolgd door &ldquo;De Blokkadebrekers&rdquo;.
+<p><hi rend=sc><xref url="pg:39191">Avonturen van drie Russen en drie Engelschen</xref></hi>. Gevolgd door &ldquo;De Blokkadebrekers&rdquo;.
 
-<p><hi rend=sc>Een Kapitein van 15 jaar</hi>. De Walvischjagers.
+<p><hi rend=sc><xref url="pg:18425">Een Kapitein van 15 jaar</xref></hi>. De Walvischjagers.
 
 <p><hi rend=sc>Een Kapitein van 15 jaar</hi>. In Slavernij.
 
@@ -4211,9 +4234,9 @@
 
 <p><hi rend=sc>Eldorado en het Monsterkanon van Staalstad</hi>. Gevolgd door &ldquo;Meester Zacharias&rdquo;.
 
-<p><hi rend=sc>Het Stoomhuis</hi>. De IJzeren Reus.
+<p><hi rend=sc><xref url="pg:33075">Het Stoomhuis</xref></hi>. De IJzeren Reus.
 
-<p><hi rend=sc>Het Stoomhuis</hi>. De Waanzinnige der Nerbudda.
+<p><hi rend=sc><xref url="pg:38449">Het Stoomhuis</xref></hi>. De Waanzinnige der Nerbudda.
 
 <p><hi rend=sc><xref url="pg:27397">De Wonderstraal</xref></hi>.
 
@@ -4223,6 +4246,9 @@
 
 
 <p>Prijs per deel 75 Cent.
+
+
+</div1>
 
 
 <divGen type=Colophon>
